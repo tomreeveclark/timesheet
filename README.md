@@ -22,3 +22,15 @@ Timing Reading Emails, time started 08:54:59
 Type a project and hit enter to start timing, or press Ctrl-C to quit:
 ```
 Each time you start a new project, type the project and hit ```Enter```
+To finish timing for the day, click ```Ctrl-C```:
+```
+------------------------------
+Timing finished at 17:47:59
+
+Projects worked on today:
+ > Reading Emails, started at 08:54:59
+ > Writing Emails, started at 14:20:17
+
+ File 20160908.txt written.
+ ------------------------------
+ ```

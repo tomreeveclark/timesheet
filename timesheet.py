@@ -84,7 +84,7 @@ except KeyboardInterrupt:
             item[0], item[1]
             ))
     print('\nFile {0} written.'.format(
-        datetime.datetime.now().strftime('%d_%m_%Y.txt')
+        datetime.datetime.now().strftime('%Y%m%d.txt')
         ))
     print('------------------------------')
     write_file(timestamps)
