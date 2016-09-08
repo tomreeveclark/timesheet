@@ -31,6 +31,6 @@ Projects worked on today:
  > Reading Emails, started at 08:54:59
  > Writing Emails, started at 14:20:17
 
- File 20160908.txt written.
- ------------------------------
+File 20160908.txt written.
+------------------------------
  ```
