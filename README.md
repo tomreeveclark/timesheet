@@ -13,11 +13,7 @@ Hit ```Enter```
 ```
 Timesheet app started at 08:54:53 08/09/2016
 
-<<<<<<< HEAD
 Type a project and hit enter to start timing, or press Ctrl-C to quit:
-=======
-Type a project and hit enter to start timing, or press Ctrl-C to quit:
->>>>>>> a6ff9d1de714e533296ece97ecbd7695ba87d034
 ```
 Type a project, eg ```Reading Emails```
 ```
